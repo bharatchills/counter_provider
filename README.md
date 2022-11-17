@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+The Default Counter app build by State Managment package Provider
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
